@@ -1,2 +1,1 @@
-# Barbearia-Alura
-Trabalho do Netão
+Barbearia Alura
